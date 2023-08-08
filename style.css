@@ -1,0 +1,25 @@
+header {
+    border-bottom: 1px gray solid;
+    padding: 20px;
+}
+nav {
+    border-right: 1px solid gray;
+    width: 200px;
+    height: 600px;
+    float: left;
+}
+
+nav ul {
+    padding-left: 0;
+    list-style: none;
+}
+
+article {
+    width: 500px;
+    float: left;
+    padding: 20px;
+}
+
+#control {
+    float: right;
+}
